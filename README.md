@@ -28,3 +28,5 @@ To develop a simple chatbot that demonstrates how natural language processing an
 ### Dataset
 
 Source: [GPT-2 Output Data — Kaggle](https://www.kaggle.com/datasets/abhishek/gpt2-output-data/data)
+
+Source: [Presentation Slides — Canva](https://www.canva.com/design/DAG02G0ofKI/PD-W_5rHAB1WId9c4gHGSA/edit)
